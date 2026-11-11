@@ -1,3 +1,5 @@
+> 完全由DeepSeekHarness创建
+
 # Orange theme（橙色主题）
 
 把 DeepSeek Harness Web 界面的强调色改成橙色：发送消息按钮、品牌 logo 与文字（侧栏左上角、新会话 Hero 上方）、
