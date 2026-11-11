@@ -1,0 +1,4 @@
+# Orange theme bundle patch: insert the single plugin row.
+- insert:
+    - id: orange-theme
+      name: '@local/dsh-orange-theme'

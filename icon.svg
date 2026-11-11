@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Orange theme">
+  <rect width="64" height="64" rx="15" fill="#1f2329"/>
+  <circle cx="32" cy="32" r="15" fill="#ea580c"/>
+  <circle cx="32" cy="32" r="15" fill="none" stroke="#fdba74" stroke-width="2.5"/>
+  <g stroke="#fdba74" stroke-width="2.5" stroke-linecap="round" opacity="0.85">
+    <path d="M32 7v6"/>
+    <path d="M32 51v6"/>
+    <path d="M7 32h6"/>
+    <path d="M51 32h6"/>
+    <path d="M14.3 14.3l4.2 4.2"/>
+    <path d="M45.5 45.5l4.2 4.2"/>
+    <path d="M49.7 14.3l-4.2 4.2"/>
+    <path d="M18.5 45.5l-4.2 4.2"/>
+  </g>
+</svg>
